@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Lobster&display=swap');
 
 body{
     background: linear-gradient(#ff2449b7, #fcc2cb);
@@ -6,4 +7,8 @@ body{
 
 li{
     font-family: Lobster;
+}
+
+h1{
+    font-family: Concert One;
 }
