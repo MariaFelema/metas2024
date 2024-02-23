@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body{
+    background: linear-gradient(#ff2449b7, #fcc2cb);
+}
+
+li{
+    font-family: Lobster;
+}
