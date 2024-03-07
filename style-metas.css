@@ -2,7 +2,7 @@
 
 :root {
     --cor-de-fundo: #1E1E1E;
-    --verde: #6FFF57;
+    --rosa: #ff41b0;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: #3a375e80;
@@ -32,7 +32,7 @@
     }
 
     .titulo-principal span {
-    color: var(--verde);
+    color: var(--rosa);
     }
 
     .botao {
@@ -56,7 +56,7 @@
     }
     .ativo{
     background-color: var(--botao-ativo);
-    border-bottom: 4px solid var(--verde);
+    border-bottom: 4px solid var(--rosa);
     }
         
     @media screen and (min-width: 768px) {
@@ -79,7 +79,7 @@
         .botao:first-child {
         border-radius: 40px 0 0 0;
         }
-        
+
         .botao:last-child {
         border-radius: 0 40px 0 0;
         }
